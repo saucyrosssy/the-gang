@@ -138,7 +138,7 @@ nav ul{
 
 }
 
-ul li{
+nav ul li{
 	margin:0;
 	padding:0;
 	display:block;
@@ -164,8 +164,21 @@ nav ul li a{
 	text-align:center;
 }
 
+.more-info p{
+	margin-bottom:18px;
+}
+
 .more-info h2{
-	text-align:center;
+	margin: 50px 0;
+}
+
+.highlight{
+	background-color:#ffadf9;
+	color: #ff3300;
+	padding: 5px 10px;
+	line-height: 50px;
+	display:inline;
+	font-weight:800;
 }
 
 
